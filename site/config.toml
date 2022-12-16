@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://editor.tristangoetz.me"
 title = "Editor - Personal Blog Hugo Theme"
-theme = "editor-hugo"
+theme = "editor"
 # post pagination
 paginate = "12"
 # post excerpt
